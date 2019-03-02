@@ -1,0 +1,4 @@
+author = BBackx
+version = 0.1
+displayName = More Spell Books
+homepage = https://forums.terraria.org/index.php?threads/more-spell-books.77954/
